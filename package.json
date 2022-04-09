@@ -15,7 +15,7 @@
     "firebase": "^6.3.5",
     "history": "^4.9.0",
     "jss-rtl": "^0.2.3",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "moment-jalaali": "^0.8.3",
     "path": "^0.12.7",
     "react": "^16.8.6",
